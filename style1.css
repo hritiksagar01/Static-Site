@@ -1,0 +1,23 @@
+
+h1 {
+    text-align: left;
+    font-weight: 200;
+    padding-bottom: 10%;
+    color: black;  }
+
+    body {
+        font-family: 'Lexend Deca', sans-serif; 
+        background-color: #EBEFF5;    
+      }
+
+      .button {
+        border: 1px solid;
+        border-radius: 16px;
+        border-color: #606f7bcc;
+        background: transparent;
+        font-size: 1.3rem;
+        color:#606f7bcc;
+        padding: 8px 12px;
+        margin: 8px;
+        text-decoration: none;
+      }
